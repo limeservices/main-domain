@@ -2,4 +2,4 @@ https://lime.services
 https://lime.services/about
 https://portfolio.lime.services
 https://lime.services/store
-https://lime.services/donate
+https://donate.lime.services

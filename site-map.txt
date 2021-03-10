@@ -1,5 +1,5 @@
 https://lime.services
 https://lime.services/about
-https://lime.services/portfolio
+https://portfolio.lime.services
 https://lime.services/store
 https://lime.services/donate

@@ -75,3 +75,44 @@ body {
 		text-align: center;
 		font-size: 25px;
 }
+/* PORTFOLIO */
+.portfolio {
+	position: relative;
+	/* TEXT */
+		text-align:center;
+}
+/* PORTFOLIO FULL SCREEN VIDEO */
+iframe {
+	position:relative;
+	right: 0;
+	bottom:0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+   	height: auto;
+}
+/* PORTFOLIO PAGE */
+.portp {
+	position:absolute;
+	top:0px;
+	right:0px;
+	bottom:0px;
+	left:0px;
+	min-width:500px;
+}
+/* PORTFOLIO BACK BUTTON */
+.back {
+	position:fixed;
+	background:#323232;
+	left:90%;
+	top:90%;
+	right:0%;
+	/* TEXT */
+		color:#f5f5f5;
+		text:100%;
+	/* SPACING */
+		padding-left:0.5%;
+		padding-right:0.5%;
+		padding-top:0.5%;
+		padding-bottom:0.5%;
+}

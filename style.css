@@ -67,3 +67,11 @@ body {
 		-ms-transform: translateY(-50%);
   		transform: translateY(-50%);
 }
+/* DONATE */
+.donate {
+	position: relative;
+	/* TEXT */
+		color: #272727;
+		text-align: center;
+		font-size: 25px;
+}
